@@ -29,3 +29,24 @@ prompt = f"""
 response = get_completion(prompt)
 print(response)
 
+
+#sample response
+# CREATE TABLE Employee (
+#   id SERIAL PRIMARY KEY,
+#   name VARCHAR(50) NOT NULL,
+#   department_id INTEGER REFERENCES Department(id)
+# );
+
+# CREATE TABLE Department (
+#   id SERIAL PRIMARY KEY,
+#   name VARCHAR(50) NOT NULL,
+#   address VARCHAR(100) NOT NULL
+# );
+
+# CREATE TABLE Salary_Payments (
+#   id SERIAL PRIMARY KEY,
+#   employee_id INTEGER REFERENCES Employee(id),
+#   amount DECIMAL(10,2) NOT NULL,
+#   date DATE NOT NULL
+# );
+
