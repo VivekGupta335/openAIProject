@@ -23,16 +23,14 @@ This is an example domain name suggestion app using OpenAI API
    ```bash
    $ npm install
    ```
- 
 
 5. Add your [API key](https://platform.openai.com/account/api-keys) to the  `.env` file
 
-6.  On Linux systems: 
    ```bash
    $ vi .env
    ```
 
-7. Run the app
+6. Run the app
 
    ```bash
    $ npm run dev
