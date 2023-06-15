@@ -2,7 +2,7 @@
 
 This is an example domain name suggestion app using OpenAI API 
 
-![Text box that says name domain name with screenshot]([https://user-images.githubusercontent.com/10623307/213887080-b2bc4645-7fdb-4dbd-ae42-efce00d0dc29.png](https://github.com/VivekGupta335/openAIProject/blob/main/public/Screen%20Shot%202023-06-14%20at%205.54.45%20PM.png))
+(https://github.com/VivekGupta335/openAIProject/blob/main/public/Screen%20Shot%202023-06-14%20at%205.54.45%20PM.png)
 
 
 ## Setup
