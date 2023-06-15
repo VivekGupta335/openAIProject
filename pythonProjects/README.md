@@ -33,6 +33,8 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
 
 ```
 
+#Python script files with description 
+
 
 summarize.py -> This will summarize paragraph to few lines text which contain only important information
 
