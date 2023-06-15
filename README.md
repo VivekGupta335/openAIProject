@@ -3,6 +3,7 @@
 This is an example domain name suggestion app using OpenAI API 
 
 (https://github.com/VivekGupta335/openAIProject/blob/main/public/Screen%20Shot%202023-06-14%20at%205.54.45%20PM.png)
+<img width="884" alt="Screen Shot 2023-06-14 at 5 54 45 PM" src="https://github.com/VivekGupta335/openAIProject/assets/16142508/5c0e9465-a57b-4542-ab78-1ba73716220c">
 
 
 ## Setup
