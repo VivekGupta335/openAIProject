@@ -32,6 +32,8 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     return response.choices[0].message["content"]
 
 ```
+
+
 summarize.py -> This will summarize paragraph to few lines text which contain only important information
 
 formatConversion -> This will convert json text into html code
