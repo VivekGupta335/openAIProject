@@ -32,3 +32,9 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     return response.choices[0].message["content"]
 
 ```
+
+CreatePostgresSqlQueries.py -> This will create postgres sql queries based on text
+
+TranslateAllTextToOneLanguage.py -> This will translate different language texts to English
+
+
