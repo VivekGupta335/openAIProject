@@ -2,14 +2,22 @@
 
 #Install openai using pip
 
+```
 pip install openai
+```
 
 #Install python-dotenv
 
+```
 pip install python-dotenv
+```
 
 #Create env file .env
-#Place your api_key as OPENAI_API_KEY=
+#Place your api_key as 
+
+```
+OPENAI_API_KEY= <api_key>
+```
 
 #Helper function 
 
