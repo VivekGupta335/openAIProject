@@ -1,4 +1,4 @@
-# need python 3
+# Chatgpt python 
 
 #Install openai using pip
 
@@ -13,6 +13,7 @@ pip install python-dotenv
 
 #Helper function 
 
+```
 def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
@@ -22,3 +23,4 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     )
     return response.choices[0].message["content"]
 
+```
