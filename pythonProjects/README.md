@@ -35,6 +35,7 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
 
 #Python script files with description 
 
+```
 
 summarize.py -> This will summarize paragraph to few lines text which contain only important information
 
@@ -50,6 +51,7 @@ CreatePostgresSqlQueries.py -> This will create postgres sql queries based on te
 
 TranslateAllTextToOneLanguage.py -> This will translate paragraph which contains texts from many different language to English
 
+```
 
 
 
